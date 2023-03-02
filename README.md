@@ -38,16 +38,6 @@ You will notice similarities between the solution we are going to develop here a
 
 Let's find out how much these factors impact and if we have other not so intuitive factors that are extremely important.
 
-## References
-
-- [Kaggle databases](https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro)
-- [Allan Bruno kaggle](https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb)
-- [Hashtag Treinamentos Course](https://www.hashtagtreinamentos.com/)
-
-## Author
-
-- [André Porto](https://www.linkedin.com/in/andremporto/)
-
 ## Environment
 
 To run this project, you will need to add the following environment variables to your .env
@@ -66,7 +56,7 @@ To run this project, you will need to add the following environment variables to
 
 `sklearn`
 
-## Functionalities Roadmap
+## Roadmap
 
 - Import Libraries and Databases
 - Handle Missing Values
@@ -88,3 +78,19 @@ To run this project, you will need to add the following environment variables to
 ## Screenshots
 
 ![Screenshot 01](https://github.com/andremporto/Projeto-Airbnb-Busca-de-Precos/blob/main/images/output1.png?raw=true)
+
+![Screenshot 02](https://github.com/andremporto/Projeto-Airbnb-Busca-de-Precos/blob/main/images/output2.png?raw=true)
+
+![Screenshot 03](https://github.com/andremporto/Projeto-Airbnb-Busca-de-Precos/blob/main/images/output3.png?raw=true)
+
+![Screenshot 04](https://github.com/andremporto/Projeto-Airbnb-Busca-de-Precos/blob/main/images/output4.png?raw=true)
+
+## References
+
+- [Kaggle databases](https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro)
+- [Allan Bruno kaggle](https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb)
+- [Hashtag Treinamentos Course](https://www.hashtagtreinamentos.com/)
+
+## Author
+
+- [André Porto](https://www.linkedin.com/in/andremporto/)
